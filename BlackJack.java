@@ -1,6 +1,6 @@
 // Description: This program will simulate a single card being dealt to
-//				an initial BlackJack hand and keep track of the number of
-//				the number of times that single card results in a "bust".
+//		an initial BlackJack hand and keep track of the number of
+//		times that single card results in a "bust".
 
 import java.util.*;
 
