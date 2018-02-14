@@ -1,10 +1,3 @@
-// Name: Joanna Choi
-// VUnetID: choije
-// Email: joanna.e.choi@vanderbilt.edu
-// Class: CS101, Vanderbilt University
-// Honor statement: I have neither given nor received any unauthorized aid on this assignment.
-// Date: 10/04/14
-
 // Description: This program will simulate a single card being dealt to
 //				an initial BlackJack hand and keep track of the number of
 //				the number of times that single card results in a "bust".
